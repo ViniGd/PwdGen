@@ -32,4 +32,4 @@ A aplicação solicita ao usuário duas entradas: uma senha e uma seed. Com base
 2. Clone este repositório.
 3. Execute o arquivo `main.py`:
    ```bash
-   python main.py
+   python PwdGen.py
