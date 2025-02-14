@@ -30,6 +30,6 @@ A aplicação solicita ao usuário duas entradas: uma senha e uma seed. Com base
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório.
-3. Execute o arquivo `main.py`:
+3. Execute o arquivo `PwdGen.py`:
    ```bash
    python PwdGen.py
